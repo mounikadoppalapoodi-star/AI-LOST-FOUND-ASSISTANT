@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+python-jwt
+passlib[bcrypt]
+python-multipart
+faiss-cpu
+sentence-transformers
+open-clip-torch
+pillow
+opencv-python
+aiosmtplib
+python-dotenv
+uvicorn[standard]
